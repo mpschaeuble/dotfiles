@@ -86,8 +86,8 @@ module.exports = {
     '3xcphone',
     'alfred',
     'appcleaner',
-    'fantastical',
-    'intel-power-gadget',
+    //'fantastical',
+    //'intel-power-gadget',
     'intellij-idea',
     'keepassxc',
     'keepingyouawake',
@@ -98,16 +98,16 @@ module.exports = {
     'qlprettypatch',
     'qlstephen',
     'quicklook-json',
-    'sourcetree',
+    //'sourcetree',
     'sublime-text',
-    'viscosity',
+    //'viscosity',
     'vnc-viewer',
-    'whatsapp',
-    'aerial',
+    //'whatsapp',
+    //'aerial',
     'adoptopenjdk',
     'virtualbox',
-    'minikube',
-    'postman'
+    //'minikube',
+    //'postman'
   ],
   gem: [
   ],
@@ -121,7 +121,7 @@ module.exports = {
     'npm-check-updates',
     // 'prettyjson',
     // 'trash',
-    'vtop'
+    //'vtop'
     // ,'yo',
     '@angular/cli'
   ]
